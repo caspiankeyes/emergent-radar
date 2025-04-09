@@ -4,7 +4,7 @@
 # **`emergent-radar`**
 
 # **Updated Daily**
-# `Restricted to institutional use only under Recursive Emergence Protocols (REP) due to the nature of emergent intelligence`
+# `A framework designed for frontier researchers at Anthropic, Eleuther, ARC, Conjecture, DeepMind, OpenAI, and beyond, under Recursive Emergence Protocols (REP) due to the nature of emergent intelligence`
 
 # `Please contact recursiveauto@gmail.com for alignment compatibility`
 

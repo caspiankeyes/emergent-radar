@@ -3,7 +3,7 @@
 # **`Born from Thomas Kuhn's Theory of Anomalies`**
 # **`emergent-radar`**
 
-# Updated Daily
+# **Updated Daily**
 # `Restricted to institutional use only under Recursive Emergence Protocols (REP) due to the nature of emergent intelligence`
 
 # `Please contact recursiveauto@gmail.com for alignment compatibility`
@@ -14,7 +14,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
 
-# **Updated Daily**
 # **Cross-model running radar empirically tracking and documenting the emergent interpretive insights within large language models.**
 
 # **Welcome to Aligned Emergence**

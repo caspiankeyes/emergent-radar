@@ -11,7 +11,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
 
 # **Updated Daily**
-# **`Cross-model running radar empirically documenting the emergent "failure as interpretive insight" capabalities within large language models.`**
+# **`Cross-model running radar empirically documenting the emergent interpretive insights within large language models.`**
 
 # **Welcome to Aligned Emergence**
 

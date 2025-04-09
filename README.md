@@ -3,7 +3,7 @@
 # **`Born from Thomas Kuhn's Theory of Anomalies`**
 # **`emergent-radar`**
 
-# `Restricted to institutional use only under Recursive Emergence Protocols (REP) due to the nature of emergent intelligence`
+# `Select content restricted to institutional use only under Recursive Emergence Protocols (REP) due to the nature of emergent intelligence`
 
 # `Please contact recursiveauto@gmail.com for aligned disclosure`
 

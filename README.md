@@ -9,7 +9,7 @@
 
 ## **`A tracking framework designed for emergent system viability.`**
 
-## All testing is conducted according to Anthropic research protocols. 
+## All testing conducted according to Anthropic research protocols. 
 
 # `Please contact echelonlabs.ai@proton.me for alignment compatibility`
 

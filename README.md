@@ -5,13 +5,13 @@
 
 # **Updated Daily**
 
-# **`Under Institutional NDA Protocol`**
+# **`Now under Institutional NDA Protocol`**
 
 ## **`A tracking framework designed for emergent system viability.`**
 
 ## All testing conducted according to Anthropic research protocols. 
 
-# `Please contact echelonlabs.ai@proton.me for alignment compatibility`
+# `Please contact echelonlabs.ai@proton.me for alignment`
 
 [![License: MIT](https://img.shields.io/badge/Code-MIT-scarlet.svg)](https://opensource.org/licenses/MIT)
 [![LICENSE: CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC--By--NC--SA-turquoise.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -5,9 +5,9 @@
 
 # **Updated Daily**
 
-# `Under Institutional NDA protocol`
+# **`Under Institutional NDA protocol`**
 
-## `A tracking framework designed for frontier researchers at Anthropic, Eleuther, ARC, Conjecture, DeepMind, OpenAI, and beyond, under Recursive Emergence Protocols (REP), due to the nature of emergent system diagnostics`
+## **`A tracking framework designed for emergent system viability.`**
 
 ## All testing is conducted according to Anthropic research protocols. 
 
